@@ -5,10 +5,10 @@ Fabrication of Automatic Underground Coal Mining Ventilation System using sensor
 This project was developed as a group mini-project under faculty guidance.
 
 Team Members:
-Haleema Sadiya
-Monal Kumari
-Sharath Gowda T.R
-Yashavanth M.H
+Haleema Sadiya,
+Monal Kumari,
+Sharath Gowda T.R,
+Yashavanth M.H.
 
 
 My Contribution,
