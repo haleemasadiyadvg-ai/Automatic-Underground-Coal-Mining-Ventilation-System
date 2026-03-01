@@ -1,0 +1,47 @@
+Automated Underground Coal Mining Ventilation System
+Project Overview
+This project focuses on developing an automated ventilation system for underground coal mines to improve safety.
+
+Problem
+Underground mines release dangerous gases like methane (CH4) and carbon monoxide (CO). Manual ventilation systems are slow and unsafe.
+
+Solution
+This system uses:
+
+ESP32 microcontroller
+
+MQ-4 gas sensor (Methane)
+
+MQ-7 gas sensor (CO)
+
+DHT11 temperature sensor
+
+12V fan
+
+Relay module
+
+OLED display
+
+Buzzer
+
+Working
+Sensors detect gas levels.
+
+ESP32 checks threshold.
+
+If gas level is high:
+
+Fan turns ON
+
+Buzzer gives alert
+
+If safe:
+
+Fan stays OFF.
+
+Total Cost
+₹3434 (Low-cost prototype)
+
+Result
+The system successfully detects gas and automatically controls ventilation to improve safety.
+
